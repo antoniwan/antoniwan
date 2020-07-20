@@ -1,6 +1,5 @@
-Hello! My name is Antonio, and I enjoy building software and web applications. Some years ago, a friend and I founded a software development company and later sold it. The experience was more educational than lucrative.
+Hello! My name is Antonio, and I enjoy building software and web applications. Some years ago, a friend and I founded a software development company and later sold it. The experience was more educational than lucrative. I'm currently employed as the Chief Technology Officer at Carbuckets.com; stay tuned for our launch soon!
 
-### Real Life
 Aside from work, I love being a dad, and I wish I would write more. Cooking for my family, playing basketball, shredding on my guitars, and maintaining a healthy lifestyle through exercise and nutritive food are currently my favorite hobbies.
 
 <!--
