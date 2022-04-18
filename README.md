@@ -1,8 +1,14 @@
-Hi! My name is Antonio Rodriguez, and I enjoy leading teams, building software, and learning about anything.
+i, my name is Antonio, and I enjoy leading teams and building products
 
-Some years ago, a friend and I founded a web development company and later sold it. The experience was more educational than lucrative. Since then, I've worked as a Chief Technology Officer, as an engineering manager, at the Director-level, and my favorite, as an individual contributor in many projects and products with various levels of effort and impact. Currently, I'm exploring different disciplines and have taken on a Product Owner role at a global tools company.
+About a decade ago, a friend and I founded a web development company and later sold it to a marketing firm. This entrepreneurship experience was more educational than lucrative, quickly orienting me on how essential ethics, morals, and empathy are if I aspire to be a just leader and promote a healthy environment at work.
 
-Aside from work, I put most of my efforts into being a conscious and involved parent, a better husband, and a healthier person.
+Since then, I've worked as a Chief Technology Officer, an Engineering Manager, a Director, and an Individual Contributor to many teams, projects and products with various levels of effort and impact. Currently, I'm exploring different disciplines and have taken on a Technical Product Owner role at a Global tools company. Which is my favorite role? I honestly do not know, they all have pros and cons, and I absolutely enjoy them.
+
+Aside from work, I put most of my efforts into being a loving, conscious, and involved parent, a better husband, and a healthier person, mentally and physically.
+
+Thanks for visiting!
+
+
 
 <!--
 **antoniwan/antoniwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
