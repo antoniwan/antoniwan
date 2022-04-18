@@ -1,4 +1,4 @@
-i, my name is Antonio, and I enjoy leading teams and building products
+Hi, my name is Antonio, and I enjoy leading teams and building products
 
 About a decade ago, a friend and I founded a web development company and later sold it to a marketing firm. This entrepreneurship experience was more educational than lucrative, quickly orienting me on how essential ethics, morals, and empathy are if I aspire to be a just leader and promote a healthy environment at work.
 
