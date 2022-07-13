@@ -1,13 +1,14 @@
-Hi, my name is Antonio, and I enjoy leading teams and building products
+Hi, my name is Antonio, and I enjoy building things: web applications, software development teams, prototypes, documents, products, abstractions, songs, cooking recipes, instructionals, anything. I genuinely enjoy my work; it truly blows my mind that I get paid to learn and build things all day.
 
-About a decade ago, a friend and I founded a web development company and later sold it to a marketing firm. This entrepreneurship experience was more educational than lucrative, quickly orienting me on how essential ethics, morals, and empathy are if I aspire to be a just leader and promote a healthy environment at work.
+Some years ago, as a college student, a friend and I founded a web software development company which a marketing firm later acquired. Unfortunately, this entrepreneurship experience was more educational than lucrative. The good news is that this venture helped me define how I want to work and what I need to facilitate for my coworkers—integrity, empathy, ethics, compassion, kindness, transparency, inclusion, diversity, tolerance, and respect. We are most productive and efficient when we are diverse and healthy in mind, body, and spirit. We need to care for each other if we will work so hard every day. I see you. You are all working so hard.
 
-Since then, I've worked as a Chief Technology Officer, an Engineering Manager, a Director, and an Individual Contributor to many teams, projects and products with various levels of effort and impact. Currently, I'm exploring different disciplines and have taken on a Technical Product Owner role at a Global tools company. Which is my favorite role? I honestly do not know, they all have pros and cons, and I absolutely enjoy them.
+The marketing agency life was very fun and appealing to me. I will miss all the variability of the projects, their scope, and their features. The people you work with are brilliant too. The wild client feedback and how quick turnarounds were. We'd have to learn a language, library, framework, or protocol (!!) on the go because the client wanted us to do X, Y, and Z. What?! I loved that feeling and delivering felt even more remarkable. I learned to love learning.
 
-Aside from work, I put most of my efforts into being a loving, conscious, and involved parent, a better husband, and a healthier person, mentally and physically.
+Throughout my career, I've held many responsibilities: Individual Contributor, Architect, Chief Technology Officer, Engineering Manager, and Director to a few teams, projects, and products with various levels of effort and impact. Nowadays, I'm enjoying my work as a Technical Product Owner for the digital core technology group in a fantastic Global tool and hardware company.
 
-Thanks for visiting!
+Aside from work, I try to put most of my efforts into being a conscious and present person. I enjoy bringing my family together with food and sweets. I want to be a loving, mindful, and involved parent, a better husband, and a healthier person and neighbor. I want to be a better friend, brother, and son. I declare this today publicly to pressure myself.
 
+Thanks for visiting! 
 
 
 <!--
