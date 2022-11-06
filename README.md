@@ -1,5 +1,3 @@
-# Antonio R.
-
 Technical Program Manager, Software Engineer & Web Developer, Product Leader, Enjoyer of Learning
 
 - [Work Profile @ LinkedIn](https://www.linkedin.com/in/antoniwan/)
