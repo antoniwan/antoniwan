@@ -1,5 +1,5 @@
-Technical Program Manager, Engineering Manager, Web Developer, Product Leader, Enjoyer of Learning, Doer, Conscious Person, Parent, Powerful
-
+Enjoyer of Learning and Getting Things Done, Parent<sup>2</sup>, Technical Program Manager, Web Developer, Product Leader, Amateur Philosopher, Striving for Health, Consciousness, Strength, and Self-Transcendence
+        
 - [Work Profile @ LinkedIn](https://www.linkedin.com/in/antoniwan/)
 - [CodePen Examples](https://codepen.io/antoniwan/#)
 - [Contact Me via Email](mailto:antonio@builds.software)
