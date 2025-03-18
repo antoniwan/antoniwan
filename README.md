@@ -1,4 +1,4 @@
-Enjoyer of Learning and Getting Things Done, Parent<sup>2</sup>, Technical Program Manager, Web Developer, Product Leader, Amateur Philosopher, Striving for Health, Consciousness, Strength, and Self-Transcendence
+Builder of Digital Products, Parent<sup>²</sup>, Technical Program Manager, Full-Stack Developer, Systems Thinker, Pragmatic Problem-Solver, Lifelong Learner, Advocate for Conscious Technology, Seeker of Balance Between Technical Excellence and Human Values
         
 - [Work Profile @ LinkedIn](https://www.linkedin.com/in/antoniwan/)
 - [CodePen Examples](https://codepen.io/antoniwan/#)
