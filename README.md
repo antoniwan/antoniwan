@@ -9,6 +9,7 @@
 I lead, build, and mentor with purpose. My focus is on **powerful software**, **intentional design**, and **conscious tech leadership**.
 
 I enjoy:
+
 - Crafting scalable, human-centered systems
 - Leading teams through ambiguity to launch successful digital products
 - Building tools that empower creators, engineers, and dreamers
