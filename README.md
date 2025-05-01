@@ -45,7 +45,7 @@ I enjoy:
 
 > 💌 Let’s connect if you're building things that matter, exploring emotional depth in tech, or just want to jam on ideas that help people grow.
 
-📬 antonio@builds.software  
-🌐 [builds.software](https://builds.software)  
-📖 [blog.stronghandssoftheart.com](https://blog.stronghandssoftheart.com)  
-🐦 [@antoniwan.bsky.social](https://bsky.app/profile/antoniwan.bsky.social)  
+📬 Email: [antonio@builds.software](mailto:antonio@builds.software)  
+🌐 Portfolio: [builds.software](https://builds.software)  
+📖 Blog: [blog.stronghandssoftheart.com](https://blog.stronghandssoftheart.com)  
+🌀 BlueSky: [@antoniwan.bsky.social](https://bsky.app/profile/antoniwan.bsky.social)
