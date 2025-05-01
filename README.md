@@ -1,5 +1,50 @@
-Builder of Digital Products, Parent<sup>²</sup>, Technical Program Manager, Full-Stack Developer, Systems Thinker, Pragmatic Problem-Solver, Lifelong Learner, Advocate for Conscious Technology, Seeker of Balance Between Technical Excellence and Human Values
+## 👋 Hi there, I'm Antonio Rodríguez Martínez (he/him) — @antoniwan
 
-*Let's connect across platforms and explore ideas together. I'm passionate about sharing my work, thoughts, and creative journey with kindred spirits. Whether you're seeking technical collaboration, creative problem-solving, or meaningful exchange—I thrive on engaging with fellow builders, creators, thinkers, learners, livers, and lovers of life.*
+**Builder of Digital Products | Full-Stack Developer | Technical Program Manager at Stanley Black & Decker | Systems Thinker | Musician | Father**
 
-Let's gooooo!!!! Thank you for visiting! ✨
+---
+
+### ⚡ What I’m About
+
+I lead, build, and mentor with purpose. My focus is on **powerful software**, **intentional design**, and **conscious tech leadership**.
+
+I enjoy:
+- Crafting scalable, human-centered systems
+- Leading teams through ambiguity to launch successful digital products
+- Building tools that empower creators, engineers, and dreamers
+- Teaching and mentoring engineers and young adults in sacred, serious spaces
+- Designing with empathy and clarity
+
+### 🧠 Current Projects & Focus Areas
+
+- **🚀 `stronghandssoftheart.com`** – Clothing, oils, and rituals brand built around emotional alchemy and practical masculinity
+- **🎧 `short-songs` project** – Git repo & automation pipeline for original music (recorded w/ Neural DSP Quad Cortex)
+- **📦 `builds.software`** – Personal portfolio and digital studio for freelancing and community products
+- **📚 Astro-powered blog** – [blog.stronghandssoftheart.com](https://blog.stronghandssoftheart.com) – Public notes, essays, rituals, parenting guides
+- **🤖 GoLang bot** – Automating social growth on BlueSky by following top accounts and scraping interests
+- **🧠 Self-hosted Obsidian vault** – For digital independence and full control of my thoughts
+
+### 🛠️ Stack & Tools
+
+- **Frontend**: React, Astro, TailwindCSS, Next.js, TypeScript  
+- **Backend**: Node.js, Express, GoLang, GraphQL, MongoDB  
+- **DevOps/Infra**: Vercel, Netlify, GitHub Actions, SQLite  
+- **Other Tools**: Cursor, Obsidian, ChatGPT (GPT-4), Midjourney, Figma, FL Studio  
+
+---
+
+### 🌱 Learning & Building
+
+- Self-hosting all my systems (blog, data, automation)
+- Teaching my daughter how to code and play guitar
+- Writing guides for conscious parenting, men’s mentorship, and DIY systems
+- Publishing my open-source templates for rituals, documentation, and creative projects
+
+---
+
+> 💌 Let’s connect if you're building things that matter, exploring emotional depth in tech, or just want to jam on ideas that help people grow.
+
+📬 antonio@builds.software  
+🌐 [builds.software](https://builds.software)  
+📖 [blog.stronghandssoftheart.com](https://blog.stronghandssoftheart.com)  
+🐦 [@antoniwan.bsky.social](https://bsky.app/profile/antoniwan.bsky.social)  
