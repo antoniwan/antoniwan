@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Antonio Rodríguez Martínez (he/him) — @antoniwan
 
-**Builder of Digital Products | Full-Stack Developer | Technical Program Manager at Stanley Black & Decker | Systems Thinker | Musician | Father**
+_Builder of Digital Products | Full-Stack Developer | Technical Program Manager at Stanley Black & Decker | Systems Thinker | Musician | Father_
 
 ---
 
