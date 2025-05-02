@@ -21,7 +21,7 @@ I enjoy:
 - **🚀 `stronghandssoftheart.com`** – Clothing, oils, and rituals brand built around emotional alchemy and practical masculinity
 - **🎧 `short-songs` project** – Git repo & automation pipeline for original music (recorded w/ Neural DSP Quad Cortex)
 - **📦 `builds.software`** – Personal portfolio and digital studio for freelancing and community products
-- **📚 Astro-powered blog** – [blog.stronghandssoftheart.com](https://blog.stronghandssoftheart.com) – Public notes, essays, rituals, parenting guides
+- **📚 Astro-powered blog** – [https://blog.antoniwan.online/](https://blog.antoniwan.online/) – Public notes, essays, rituals, parenting guides
 - **🤖 GoLang bot** – Automating social growth on BlueSky by following top accounts and scraping interests
 - **🧠 Self-hosted Obsidian vault** – For digital independence and full control of my thoughts
 
