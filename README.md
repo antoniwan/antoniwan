@@ -48,4 +48,4 @@ I enjoy:
 📬 Email: [antonio@builds.software](mailto:antonio@builds.software)  
 🌐 Portfolio: [builds.software](https://builds.software)  
 📖 Blog: [blog.stronghandssoftheart.com](https://blog.stronghandssoftheart.com)  
-🌀 BlueSky: [@antoniwan.bsky.social](https://bsky.app/profile/antoniwan.bsky.social)
+🌀 BlueSky: [@antoniwan.online](https://bsky.app/profile/antoniwan.online)
