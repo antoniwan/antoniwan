@@ -1,6 +1,6 @@
 # Antonio Rodriguez Martinez (he/him) — @antoniwan
 
-**Builder of Digital Products | Systems Thinker | Technical Program Manager at Stanley Black & Decker | Full-Stack Developer | Musician | Father**
+_Builder of Digital Products | Systems Thinker | Technical Program Manager at Stanley Black & Decker | Full-Stack Developer | Musician | Father<sup>2</sup>_
 
 Welcome to my digital forge. I build systems — not just software, but legacies.
 
