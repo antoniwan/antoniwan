@@ -63,16 +63,15 @@ A design & product studio for meaningful, sovereign, emotionally-aligned systems
 **Philosophy:** Timeless work. Fierce devotion. Truth over trends.
 
 → [Visit site](https://stronghandssoftheart.com)  
-→ [Mentorship program](https://stronghandssoftheart.com/#mentorship)
 
 ---
 
 ## 📝 Featured Writings
 
-- [“Why I Built builds.software — and What I'm Building Next”](https://blog.antoniwan.online/posts/why-i-built-builds-software)  
-- [“What Happens When You Leave the Algorithm Behind”](https://blog.antoniwan.online/posts/leaving-the-algorithm)  
-- [“My Mental Health Routine (Unfiltered)”](https://blog.antoniwan.online/posts/mental-health-routine)  
-- [“Forging the ‘Stronghand’ Terminal”](https://blog.antoniwan.online/posts/stronghand-terminal)
+- [“Why I Built builds.software — and What I'm Building Next”](https://medium.com/@wizards777/why-i-built-builds-software-and-what-im-building-next-8e9cda2c5043)
+- [“What Happens When You Leave the Algorithm Behind”](https://medium.com/@wizards777/what-happens-when-you-leave-the-algorithm-behind-4b606eb54cc0)  
+- [“My Mental Health Routine (Unfiltered)”](https://medium.com/@wizards777/my-mental-health-routine-unfiltered-1ebfc2b1bde9)  
+- [“Forging the ‘Stronghand’ Terminal”](https://medium.com/@wizards777/forging-the-stronghand-terminal-from-chaos-to-command-c4e4df4d290c)
 
 ---
 
