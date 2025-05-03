@@ -49,7 +49,7 @@ These are the systems I’m actively crafting and refining:
 ## 🌀 Rituals, Rhythm & Learning
 
 - Writing daily to sharpen memory and refine thinking  
-- Building alongside [🧠 systems thinkers](https://twitter.com/antoniwan777) and creators who love deep work  
+- Building alongside 🧠 systems thinkers and creators who love deep work  
 - Practicing martial arts, lifting, guitar, and emotional regulation  
 - Teaching my kids to code, think, and love themselves fully  
 - Exploring decentralized tools, sacred masculinity, and emotional sovereignty  
@@ -84,7 +84,7 @@ If you're building soulful systems, forging emotional depth into code, or crafti
 📨 Email: `antonio@builds.software`  
 🌐 Blog: [blog.antoniwan.online](https://blog.antoniwan.online)  
 📘 GitHub: [@antoniwan](https://github.com/antoniwan)  
-🔗 [BlueSky](https://bsky.app/profile/antoniwan.bsky.social) | [Portfolio](https://builds.software)
+🔗 [BlueSky](https://bsky.app/profile/antoniwan.online) | [Portfolio](https://builds.software)
 
 ---
 
