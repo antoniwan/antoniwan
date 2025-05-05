@@ -32,7 +32,7 @@ These are the systems I’m actively crafting and refining:
 
 → **More at** [builds.software](https://builds.software)  
 → **Writings at** [blog.antoniwan.online](https://blog.antoniwan.online)  
-→ **Company site** [stronghandssoftheart.com](https://stronghandssoftheart.com)
+→ **Personal Brand site** [stronghandssoftheart.com](https://stronghandssoftheart.com)
 
 ---
 
