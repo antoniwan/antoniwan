@@ -56,7 +56,7 @@ These are the systems I’m actively crafting and refining:
 
 ---
 
-## 🏛️ Company: Strong Hands, Soft Heart LLC
+## 🏛️ Personal Branding: Strong Hands, Soft Heart LLC
 
 A design & product studio for meaningful, sovereign, emotionally-aligned systems.  
 **What We Make:** Skincare, software, sound, mentorship, and more.  
