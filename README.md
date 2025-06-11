@@ -2,15 +2,15 @@
 
 _Builder of Digital Products | Systems Thinker | Technical Program Manager at Stanley Black & Decker | Full-Stack Developer | Musician | Father<sup>2</sup>_
 
-Welcome to my digital forge. I build systems — not just software, but legacies.
+Welcome to my digital forge. I build systems — not just software.
 
 ---
 
 ## 🔥 What Drives Me
 
-I build tech that matters. My work stands at the intersection of:
+My work stands at the intersection of:
 
-- ✊🏽 Emotional design & systems thinking  
+- ✊🏽 systems thinking  
 - ⚙️ Dev tooling, digital independence, and sovereign platforms  
 - 🧠 Applied wisdom, rituals, and human-centered innovation  
 - 🪵 Hands-on craftsmanship and artistic discipline  
