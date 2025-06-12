@@ -42,7 +42,7 @@ These are the systems I’m actively crafting and refining:
 **Backend**: Go, Node.js, Supabase, Firebase, MongoDB  
 **DevOps/Infra**: Vercel, GitHub Actions, Netlify, MicroCMS  
 **Creative/Studio**: Obsidian, Neural DSP (Quad Cortex), Figma, iZotope, Framer Motion  
-**OS**: Windows 11 (STRONGHANDS), macOS, iOS  
+**OS**: Windows 11, macOS, iOS  
 
 ---
 
