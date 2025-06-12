@@ -76,11 +76,5 @@ If you're building soulful systems, forging emotional depth into code, or crafti
 
 **Connect**:  
 📨 Email: `antonio@builds.software`  
-🌐 Blog: [blog.antoniwan.online](https://blog.antoniwan.online)  
-📘 GitHub: [@antoniwan](https://github.com/antoniwan)  
+🌐 Blog: [blog.antoniwan.online](https://blog.antoniwan.online)
 🔗 [BlueSky](https://bsky.app/profile/antoniwan.online) | [Portfolio](https://builds.software)
-
----
-
-_“Strong hands shape the world. A soft heart carries it.”_  
-— Antonio Rodriguez Martinez
