@@ -4,8 +4,6 @@ _Builder of Digital Products | Systems Thinker | Technical Program Manager at St
 
 Welcome to my digital forge. I build systems — not just software.
 
----
-
 ## 🔥 What Drives Me
 
 My work stands at the intersection of:
@@ -17,8 +15,6 @@ My work stands at the intersection of:
 - 🛠️ DIY ethos, mentorship, and sacred masculine leadership  
 
 I work with code, words, tools, and truth.
-
----
 
 ## 🧭 Focus Areas
 
@@ -34,7 +30,7 @@ These are the systems I’m actively crafting and refining:
 → **Writings at** [blog.antoniwan.online](https://blog.antoniwan.online)  
 → **Personal Brand site** [stronghandssoftheart.com](https://stronghandssoftheart.com)
 
----
+
 
 ## 🧰 Tech Stack & Tools
 
@@ -44,7 +40,7 @@ These are the systems I’m actively crafting and refining:
 **Creative/Studio**: Obsidian, Neural DSP (Quad Cortex), Figma, iZotope, Framer Motion  
 **OS**: Windows 11, macOS, iOS  
 
----
+
 
 ## 🌀 Rituals, Rhythm & Learning
 
@@ -54,7 +50,6 @@ These are the systems I’m actively crafting and refining:
 - Teaching my kids to code, think, and love themselves fully  
 - Exploring decentralized tools, sacred masculinity, and emotional sovereignty  
 
----
 
 ## 🏛️ Personal Branding: Strong Hands, Soft Heart LLC
 
@@ -64,7 +59,7 @@ A design & product studio for meaningful, sovereign, emotionally-aligned systems
 
 → [Visit site](https://stronghandssoftheart.com)  
 
----
+
 
 ## 📝 Featured Writings
 
@@ -73,7 +68,7 @@ A design & product studio for meaningful, sovereign, emotionally-aligned systems
 - [“My Mental Health Routine (Unfiltered)”](https://medium.com/@wizards777/my-mental-health-routine-unfiltered-1ebfc2b1bde9)  
 - [“Forging the ‘Stronghand’ Terminal”](https://medium.com/@wizards777/forging-the-stronghand-terminal-from-chaos-to-command-c4e4df4d290c)
 
----
+
 
 ## 🌍 Let’s Build Together
 
