@@ -4,7 +4,7 @@ _Builder of Digital Products | Systems Thinker | Technical Program Manager at St
 
 ## Projects
 
-- [`curious-chaos-journal`](https://github.com/antoniwan/curious-chaos-journal): My personal Astro blog engine – legible, fast, and beautiful.  
+- [`blog`](https://github.com/antoniwan/blog): My personal Astro blog engine – legible, fast, and beautiful.  
 - [`links-forest`](https://github.com/antoniwan/links-forest): A minimalist, themeable LinkTree alternative. Built with Astro and Tailwind.  
 - [`org-manager-api-map-prototype`](https://github.com/antoniwan/org-manager-api-map-prototype): A public API prototype for embedding org data with map-based UI.  
 - [`SoundCraft`](https://github.com/antoniwan/SoundCraft): A self-hosted audio system I use to manage my music production, jamming, etcetera  
