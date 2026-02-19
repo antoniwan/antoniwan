@@ -1,11 +1,8 @@
 # Antonio Rodríguez Martínez — @antoniwan
 
 Builder. Father⁴. Boricua.
-
-Innovation Technical Lead and Technical Program Manager at Stanley Black & Decker.
-
+Product Design Technical Lead and Program Manager at Stanley Black & Decker.
 *I make software, music, and things that actually matter (to me lol).*
-
 
 ## What I'm Building
 
@@ -14,7 +11,7 @@ Innovation Technical Lead and Technical Program Manager at Stanley Black & Decke
 - **[`my-prompt-library`](https://github.com/antoniwan/my-prompt-library)** — Prompts I actually use. Curated, tested, alive.
 - **[`SoundCraft`](https://github.com/antoniwan/SoundCraft)** — Self-hosted audio system for music production.
 - **[`bsky_follower`](https://github.com/antoniwan/bsky_follower)** — Go tool for organic Bluesky growth by topic.
-- **[`org-manager-api-map-prototype`](https://github.com/antoniwan/org-manager-api-map-prototype)** — Public API prototype with map-based org data UI.
+
 
 ## Featured Writings
 
@@ -34,16 +31,17 @@ Summer days and letting go.
 
 ## Stack
 
-- **Frontend** — Astro, React, TypeScript, TailwindCSS
-- **Backend** — Go, Node.js, Supabase, Firebase
+- **Frontend** — Astro, Next.js, React, TypeScript, TailwindCSS
+- **Backend** — Go, Python, Node.js, Supabase, Firebase
 - **AI** — v0, Claude, Figma MCP, Cursor, custom agent workflows
 - **Infra** — Vercel, GitHub Actions, Netlify
-- **Studio** — Obsidian, Quad Cortex, Figma, iZotope
+- **Dev Env** — WezTerm, PowerShell 7, Windows 11
+- **Studio** — FL Studio, Obsidian, Quad Cortex, Figma, iZotope
 
 ## Daily
 
-Writing. Lifting. Guitar. Teaching my kids to code and love themselves.
-Longsword. Basketball. Sprinting. Emotional regulation, in no particular order.
+Writing. Reading. Cooking. Lifting. Guitar. Teaching my kids to code and love themselves.
+Longsword. Basketball. Sprinting. Breathwork. Emotional regulation, in no particular order.
 
 ## Strong Hands, Soft Heart LLC
 
