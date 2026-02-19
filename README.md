@@ -6,12 +6,12 @@ Innovation Technical Lead at Stanley Black & Decker.
 
 ## What I'm Building
 
-**[`notes`](https://github.com/antoniwan/notes)** — Personal blog engine. Legible, fast, opinionated.
-**[`links-forest`](https://github.com/antoniwan/links-forest)** — A themeable LinkTree alternative built with Astro + Tailwind.
-**[`my-prompt-library`](https://github.com/antoniwan/my-prompt-library)** — Prompts I actually use. Curated, tested, alive.
-**[`SoundCraft`](https://github.com/antoniwan/SoundCraft)** — Self-hosted audio system for music production.
-**[`bsky_follower`](https://github.com/antoniwan/bsky_follower)** — Go tool for organic Bluesky growth by topic.
-**[`org-manager-api-map-prototype`](https://github.com/antoniwan/org-manager-api-map-prototype)** — Public API prototype with map-based org data UI.
+- **[`notes`](https://github.com/antoniwan/notes)** — Personal blog engine. Legible, fast, opinionated.
+- **[`links-forest`](https://github.com/antoniwan/links-forest)** — A themeable LinkTree alternative (Astro + Tailwind).
+- **[`my-prompt-library`](https://github.com/antoniwan/my-prompt-library)** — Prompts I actually use. Curated, tested, alive.
+- **[`SoundCraft`](https://github.com/antoniwan/SoundCraft)** — Self-hosted audio system for music production.
+- **[`bsky_follower`](https://github.com/antoniwan/bsky_follower)** — Go tool for organic Bluesky growth by topic.
+- **[`org-manager-api-map-prototype`](https://github.com/antoniwan/org-manager-api-map-prototype)** — Public API prototype with map-based org data UI.
 
 → Full catalog at [builds.software](https://builds.software)
 
@@ -33,11 +33,11 @@ Summer days and letting go.
 
 ## Stack
 
-Frontend · Astro, React, TypeScript, TailwindCSS
-Backend · Go, Node.js, Supabase, Firebase
-AI · v0, Claude, Figma MCP, Cursor, custom agent workflows
-Infra · Vercel, GitHub Actions, Netlify
-Studio · Obsidian, Quad Cortex, Figma, iZotope
+- **Frontend** — Astro, React, TypeScript, TailwindCSS
+- **Backend** — Go, Node.js, Supabase, Firebase
+- **AI** — v0, Claude, Figma MCP, Cursor, custom agent workflows
+- **Infra** — Vercel, GitHub Actions, Netlify
+- **Studio** — Obsidian, Quad Cortex, Figma, iZotope
 
 ## Daily
 
