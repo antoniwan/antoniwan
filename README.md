@@ -1,8 +1,11 @@
 # Antonio Rodríguez Martínez — @antoniwan
 
-Builder. Father³. Boricua.
-Innovation Technical Lead at Stanley Black & Decker.
+Builder. Father⁴. Boricua.
+
+Innovation Technical Lead and Technical Program Manager at Stanley Black & Decker.
+
 *I make software, music, and things that actually matter (to me lol).*
+
 
 ## What I'm Building
 
