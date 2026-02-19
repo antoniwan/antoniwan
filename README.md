@@ -1,7 +1,7 @@
 # Antonio Rodriguez Martinez — @antoniwan
 
-Builder. Father². Puerto Rican. Technical Program Manager at Stanley Black & Decker.  
-I make software, music, and things that matter.
+Builder. Father². Boricua. Technical Program Manager at Stanley Black & Decker.  
+I make software, music, and things that actually matter.
 
 ---
 
@@ -11,6 +11,7 @@ I make software, music, and things that matter.
 |---|---|
 | [`notes`](https://github.com/antoniwan/notes) | Personal blog engine — legible, fast, opinionated |
 | [`links-forest`](https://github.com/antoniwan/links-forest) | A themeable LinkTree alternative (Astro + Tailwind) |
+| [`my-prompt-library`](https://github.com/antoniwan/my-prompt-library) | A curated collection of prompts I actually use |
 | [`SoundCraft`](https://github.com/antoniwan/SoundCraft) | Self-hosted audio system for music production |
 | [`bsky_follower`](https://github.com/antoniwan/bsky_follower) | Go tool for organic Bluesky growth by topic |
 | [`org-manager-api-map-prototype`](https://github.com/antoniwan/org-manager-api-map-prototype) | Public API prototype with map-based org data UI |
@@ -21,12 +22,12 @@ I make software, music, and things that matter.
 
 ## Featured Writings
 
-- 🔥 ["The Prometheus Problem"](#) ← *your URL here*
-- ["What Happens When You Leave the Algorithm Behind"](https://medium.com/@wizards777/what-happens-when-you-leave-the-algorithm-behind-4b606eb54cc0)
-- ["My Mental Health Routine (Unfiltered)"](https://medium.com/@wizards777/my-mental-health-routine-unfiltered-1ebfc2b1bde9)
-- ["Why I Built builds.software"](https://medium.com/@wizards777/why-i-built-builds-software-and-what-im-building-next-8e9cda2c5043)
+- 🔥 ["The Prometheus Problem"](https://notes.antoniwan.online/p/the-prometheus-problem/) — on knowledge, power, and who gets to build the future
+- 🇵🇷 ["Notes on Puerto Rico: Sin Pie Forzao'"](https://notes.antoniwan.online/p/notes-on-puerto-rico-sin-pie-forzao/) — a memoir-essay on colonialism, corruption, and the island I love
+- 💀 ["An Invitation to the End of Wealth Worship"](https://notes.antoniwan.online/p/an-invitation-to-the-end-of-wealth-worship-and-the-beginning-of-a-human-future/) — and the beginning of a human future
+- 🩶 ["The Rhythm of Grief"](https://notes.antoniwan.online/p/the-rhythm-of-grief-summer-days-and-letting-go/) — summer days and letting go
 
-→ Everything at [blog.antoniwan.online](https://blog.antoniwan.online)
+→ Everything at [notes.antoniwan.online](https://notes.antoniwan.online)
 
 ---
 
@@ -44,7 +45,7 @@ I make software, music, and things that matter.
 ## Daily
 
 Writing. Lifting. Guitar. Teaching my kids to code and love themselves.  
-Martial arts, basketball, sprinting, and emotional regulation — in no particular order.
+Martial arts, basketball, sprinting, emotional regulation — in no particular order.
 
 ---
 
@@ -57,4 +58,4 @@ We make skincare, software, sound, and mentorship.
 ---
 
 📨 `antonio@builds.software`  
-🦋 [Bluesky](https://bsky.app/profile/antoniwan.online) · 🌐 [Portfolio](https://builds.software) · ✍️ [Blog](https://blog.antoniwan.online)
+🦋 [Bluesky](https://bsky.app/profile/antoniwan.online) · 🌐 [Portfolio](https://builds.software) · ✍️ [Blog](https://notes.antoniwan.online)
