@@ -13,8 +13,6 @@ Innovation Technical Lead at Stanley Black & Decker.
 - **[`bsky_follower`](https://github.com/antoniwan/bsky_follower)** — Go tool for organic Bluesky growth by topic.
 - **[`org-manager-api-map-prototype`](https://github.com/antoniwan/org-manager-api-map-prototype)** — Public API prototype with map-based org data UI.
 
-→ Full catalog at [builds.software](https://builds.software)
-
 ## Featured Writings
 
 🔥 **["The Prometheus Problem"](https://notes.antoniwan.online/p/the-prometheus-problem/)** → *start here*
