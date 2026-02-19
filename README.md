@@ -1,52 +1,60 @@
-# Antonio Rodriguez Martinez (he/him) — @antoniwan
+# Antonio Rodriguez Martinez — @antoniwan
 
-_Builder of Digital Products | Systems Thinker | Technical Program Manager at Stanley Black & Decker | Full-Stack Developer | Musician | Father<sup>2</sup>_
+Builder. Father². Puerto Rican. Technical Program Manager at Stanley Black & Decker.  
+I make software, music, and things that matter.
 
-## Projects
+---
 
-- [`notes`](https://github.com/antoniwan/notes): My personal Astro blog engine – legible, fast, and beautiful.  
-- [`links-forest`](https://github.com/antoniwan/links-forest): A minimalist, themeable LinkTree alternative. Built with Astro and Tailwind.  
-- [`org-manager-api-map-prototype`](https://github.com/antoniwan/org-manager-api-map-prototype): A public API prototype for embedding org data with map-based UI.  
-- [`SoundCraft`](https://github.com/antoniwan/SoundCraft): A self-hosted audio system I use to manage my music production, jamming, etcetera  
-- [`bsky_follower`](https://github.com/antoniwan/bsky_follower): A Go-powered tool for Bluesky growth, following by topic via natural API pacing.  
+## What I'm Building
 
-→ **More at** [builds.software](https://builds.software)  
-→ **Writings at** [blog.antoniwan.online](https://blog.antoniwan.online)  
-→ **Personal Brand site** [stronghandssoftheart.com](https://stronghandssoftheart.com)
+| Project | What it is |
+|---|---|
+| [`notes`](https://github.com/antoniwan/notes) | Personal blog engine — legible, fast, opinionated |
+| [`links-forest`](https://github.com/antoniwan/links-forest) | A themeable LinkTree alternative (Astro + Tailwind) |
+| [`SoundCraft`](https://github.com/antoniwan/SoundCraft) | Self-hosted audio system for music production |
+| [`bsky_follower`](https://github.com/antoniwan/bsky_follower) | Go tool for organic Bluesky growth by topic |
+| [`org-manager-api-map-prototype`](https://github.com/antoniwan/org-manager-api-map-prototype) | Public API prototype with map-based org data UI |
 
-## Tech Stack & Tools
+→ Full catalog at [builds.software](https://builds.software)
 
-**Frontend**: Astro, React, TailwindCSS, TypeScript  
-**Backend**: Go, Node.js, Supabase, Firebase, MongoDB  
-**DevOps/Infra**: Vercel, GitHub Actions, Netlify, MicroCMS  
-**Creative/Studio**: Obsidian, Neural DSP (Quad Cortex), Figma, iZotope, Framer Motion  
-**OS**: Windows 11, macOS, iOS  
-
-This is a non-exhaustive list!
-
+---
 
 ## Featured Writings
 
-- ["Why I Built builds.software — and What I'm Building Next"](https://medium.com/@wizards777/why-i-built-builds-software-and-what-im-building-next-8e9cda2c5043)
-- ["What Happens When You Leave the Algorithm Behind"](https://medium.com/@wizards777/what-happens-when-you-leave-the-algorithm-behind-4b606eb54cc0)  
-- ["My Mental Health Routine (Unfiltered)"](https://medium.com/@wizards777/my-mental-health-routine-unfiltered-1ebfc2b1bde9)  
-- ["Forging the 'Stronghand' Terminal"](https://medium.com/@wizards777/forging-the-stronghand-terminal-from-chaos-to-command-c4e4df4d290c)
+- 🔥 ["The Prometheus Problem"](#) ← *your URL here*
+- ["What Happens When You Leave the Algorithm Behind"](https://medium.com/@wizards777/what-happens-when-you-leave-the-algorithm-behind-4b606eb54cc0)
+- ["My Mental Health Routine (Unfiltered)"](https://medium.com/@wizards777/my-mental-health-routine-unfiltered-1ebfc2b1bde9)
+- ["Why I Built builds.software"](https://medium.com/@wizards777/why-i-built-builds-software-and-what-im-building-next-8e9cda2c5043)
 
-## Daily Practices
+→ Everything at [blog.antoniwan.online](https://blog.antoniwan.online)
 
-- Writing daily to sharpen memory and refine thinking  
-- Teaching my kids to code, think, and love themselves fully  
-- Practicing martial arts, lifting, basketball, guitar, sprinting, and emotional regulation  
+---
 
-## Personal Branding: Strong Hands, Soft Heart LLC
+## Stack
 
-A design & product studio for meaningful, sovereign, emotionally-aligned systems.  
-**What We Make:** Skincare, software, sound, mentorship, and more.  
+**Frontend** — Astro, React, TypeScript, TailwindCSS  
+**Backend** — Go, Node.js, Supabase, Firebase  
+**Infra** — Vercel, GitHub Actions, Netlify  
+**Studio** — Obsidian, Quad Cortex, Figma, iZotope  
 
-→ [Visit site](https://stronghandssoftheart.com)  
+*(non-exhaustive)*
 
-## Connect
+---
 
-📨 Email: `antonio@builds.software`  
-🌐 Blog: [blog.antoniwan.online](https://blog.antoniwan.online)
-🔗 [BlueSky](https://bsky.app/profile/antoniwan.online) | [Portfolio](https://builds.software)
+## Daily
+
+Writing. Lifting. Guitar. Teaching my kids to code and love themselves.  
+Martial arts, basketball, sprinting, and emotional regulation — in no particular order.
+
+---
+
+## Strong Hands, Soft Heart LLC
+
+A studio for sovereign, emotionally-aligned systems.  
+We make skincare, software, sound, and mentorship.  
+→ [stronghandssoftheart.com](https://stronghandssoftheart.com)
+
+---
+
+📨 `antonio@builds.software`  
+🦋 [Bluesky](https://bsky.app/profile/antoniwan.online) · 🌐 [Portfolio](https://builds.software) · ✍️ [Blog](https://blog.antoniwan.online)
