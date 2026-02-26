@@ -8,8 +8,8 @@ Product Design Technical Lead and Program Manager at Stanley Black & Decker.
 
 - **[`notes`](https://github.com/antoniwan/notes)** — Personal blog engine. Legible, fast, opinionated. → [`live link`](https://notes.antoniwan.online)
 - **[`links-forest`](https://github.com/antoniwan/links-forest)** — A themeable LinkTree alternative (Astro + Tailwind). → [`live link`](https://antoniwan.online)
-- **[`my-prompt-library`](https://github.com/antoniwan/my-prompt-library)** — Prompts I actually use. Curated, tested, alive. 
-- **[`my-react-hooks`](https://github.com/antoniwan/my-react-hooks)** — Custom React hook laboratory. Typed, composable, edge-ready. → [`live link`](https://myreacthooks.antoniwan.online)
+- **[`my-prompt-library`](https://github.com/antoniwan/my-prompt-library)** — Prompts I actually use. Curated, tested, alive. → [`live link`](https://mpl.antoniwan.online)
+- **[`my-react-hooks`](https://github.com/antoniwan/my-react-hooks)** — Custom React hook laboratory. Typed, composable, edge-ready. → [`live link`](https://my-react-hooks.antoniwan.online)
 - **[`SoundCraft`](https://github.com/antoniwan/SoundCraft)** — Self-hosted audio system for music production.
 - **[`bsky_follower`](https://github.com/antoniwan/bsky_follower)** — Go tool for organic Bluesky growth by topic.
 
