@@ -32,11 +32,11 @@ Summer days and letting go.
 
 ## Stack
 
-- **Frontend** — Astro, Next.js, React, TypeScript, TailwindCSS
+- **Frontend** — Astro, Next.js, React, TypeScript, TailwindCSS, Vite
 - **Backend** — Go, Python, Node.js, Supabase, Firebase
 - **AI** — Claude (+ Claude Code · Claude Cowork), v0, Cursor, Figma MCP, Midjourney, custom agent workflows
-- **Infra** — Vercel, GitHub Actions, Netlify
-- **Dev Env** — WezTerm, PowerShell 7, Windows 11
+- **Infra** — Vercel, Railway, Netlify, GitHub Actions, Resend
+- **Dev Env** — WezTerm, PowerShell 7, Windows 11, macOS
 - **Studio** — FL Studio, Obsidian, Quad Cortex, Figma, iZotope
 
 ## Daily
