@@ -34,7 +34,7 @@ Summer days and letting go.
 
 - **Frontend** — Astro, Next.js, React, TypeScript, TailwindCSS
 - **Backend** — Go, Python, Node.js, Supabase, Firebase
-- **AI** — v0, Claude, Figma MCP, Cursor, custom agent workflows
+- **AI** — Claude (+ Claude Code · Claude Cowork), v0, Cursor, Figma MCP, Midjourney, custom agent workflows
 - **Infra** — Vercel, GitHub Actions, Netlify
 - **Dev Env** — WezTerm, PowerShell 7, Windows 11
 - **Studio** — FL Studio, Obsidian, Quad Cortex, Figma, iZotope
