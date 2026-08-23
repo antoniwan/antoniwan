@@ -13,7 +13,7 @@ I make software, music, and things that actually matter (to me lol).
 - [consulting.stronghandssoftheart.com](https://consulting.stronghandssoftheart.com): consulting page
 
 ### 📖 Picture books
-Stories I wrote for my children. If you have little ones, you're welcome to read these aloud to them too.
+Stories I wrote for my children, in English and Spanish. If you have little ones, you're welcome to read these aloud to them too.
 - [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)
 - [The Bent One](https://the-bent-one-book.stronghandssoftheart.com)
 
