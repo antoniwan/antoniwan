@@ -18,7 +18,7 @@ Stuff on the internet that actually loads:
   - [stronghandssoftheart.com](https://stronghandssoftheart.com) — the LLC
   - [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app) — consulting page
 
-- **Picture books** (for Mia)
+- **Picture books** — stories I wrote for my children; if you have little ones, you're welcome to read these aloud to them too
   - [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)
   - [The Bent One](https://the-bent-one-book.stronghandssoftheart.com)
 
@@ -38,8 +38,8 @@ One list. Public stuff has links; private stuff is just vibes until it's ready.
 - [antoniwan.online](https://antoniwan.online) · [antoniwan.online-web](https://github.com/antoniwan/antoniwan.online-web) — my live link hub (downstream of the template)
 - [notes.antoniwan.online](https://notes.antoniwan.online) · [notes](https://github.com/antoniwan/notes) — Astro blog
 - [builds.software](https://builds.software) · [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software) — portfolio
-- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) · [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon) — bilingual picture book
-- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com) · [the-bent-one](https://github.com/antoniwan/the-bent-one) — bilingual picture book
+- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) · [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon) — bilingual bedtime story (English / Spanish)
+- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com) · [the-bent-one](https://github.com/antoniwan/the-bent-one) — same deal; read them to your kids if you'd like
 - [prompt library](https://my-prompt-library-lilac.vercel.app) · [my-prompt-library](https://github.com/antoniwan/my-prompt-library) — Git-native prompts
 - [react hooks lab](https://my-react-hooks.vercel.app) · [my-react-hooks](https://github.com/antoniwan/my-react-hooks)
 - [skin care app](https://skincare-for-you.vercel.app) · [skin-care-for-me-webapp](https://github.com/antoniwan/skin-care-for-me-webapp)
