@@ -33,22 +33,20 @@ Stuff on the internet that actually loads:
 
 ## Projects
 
-One list. Public stuff has links; private stuff is just vibes until it's ready.
-
-- [antoniwan.online](https://antoniwan.online) · [antoniwan.online-web](https://github.com/antoniwan/antoniwan.online-web): my live link hub (downstream of the template)
-- [notes.antoniwan.online](https://notes.antoniwan.online) · [notes](https://github.com/antoniwan/notes): Astro blog
-- [builds.software](https://builds.software) · [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software): portfolio
-- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) · [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon): bilingual bedtime story (English / Spanish)
-- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com) · [the-bent-one](https://github.com/antoniwan/the-bent-one): same deal; read them to your kids if you'd like
-- [prompt library](https://my-prompt-library-lilac.vercel.app) · [my-prompt-library](https://github.com/antoniwan/my-prompt-library): Git-native prompts
-- [react hooks lab](https://my-react-hooks.vercel.app) · [my-react-hooks](https://github.com/antoniwan/my-react-hooks)
-- [skin care app](https://skincare-for-you.vercel.app) · [skin-care-for-me-webapp](https://github.com/antoniwan/skin-care-for-me-webapp)
-- [work clock](https://work-clock-pi.vercel.app) · [work-clock](https://github.com/antoniwan/work-clock)
-- [links-forest demo](https://links-forest-phi.vercel.app) · [links-forest](https://github.com/antoniwan/links-forest): forkable Astro link page (Rowan Hollow on `main`, not me)
-- [SoundCraft](https://github.com/antoniwan/SoundCraft): self-hosted audio for the studio (no public demo)
-- **Nido:** async parent-child connection app. Private for now.
-- **Growly:** calm parenting journal. Private for now.
-- **SHSH client work:** consulting builds. Private for now.
+- [antoniwan.online-web](https://github.com/antoniwan/antoniwan.online-web)
+- [notes](https://github.com/antoniwan/notes)
+- [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software)
+- [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon)
+- [the-bent-one](https://github.com/antoniwan/the-bent-one)
+- [my-prompt-library](https://github.com/antoniwan/my-prompt-library)
+- [my-react-hooks](https://github.com/antoniwan/my-react-hooks)
+- [skin-care-for-me-webapp](https://github.com/antoniwan/skin-care-for-me-webapp)
+- [work-clock](https://github.com/antoniwan/work-clock)
+- [links-forest](https://github.com/antoniwan/links-forest)
+- [SoundCraft](https://github.com/antoniwan/SoundCraft)
+- **Nido:** private
+- **Growly:** private
+- **SHSH client work:** private
 
 ## Writing
 
