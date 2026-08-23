@@ -10,15 +10,15 @@ I make software, music, and things that actually matter (to me lol).
 Stuff on the internet that actually loads:
 
 - **Me**
-  - [antoniwan.online](https://antoniwan.online) — link hub
-  - [notes.antoniwan.online](https://notes.antoniwan.online) — blog & essays
-  - [builds.software](https://builds.software) — dev portfolio
+  - [antoniwan.online](https://antoniwan.online): link hub
+  - [notes.antoniwan.online](https://notes.antoniwan.online): blog & essays
+  - [builds.software](https://builds.software): dev portfolio
 
 - **Strong Hands Soft Heart**
-  - [stronghandssoftheart.com](https://stronghandssoftheart.com) — the LLC
-  - [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app) — consulting page
+  - [stronghandssoftheart.com](https://stronghandssoftheart.com): the LLC
+  - [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app): consulting page
 
-- **Picture books** — stories I wrote for my children; if you have little ones, you're welcome to read these aloud to them too
+- **Picture books:** stories I wrote for my children; if you have little ones, you're welcome to read these aloud to them too
   - [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)
   - [The Bent One](https://the-bent-one-book.stronghandssoftheart.com)
 
@@ -29,26 +29,26 @@ Stuff on the internet that actually loads:
   - [work-day clock](https://work-clock-pi.vercel.app)
 
 - **Fork me**
-  - [links-forest demo](https://links-forest-phi.vercel.app) — try Rowan Hollow’s page, then fork; [self-hosting guide](https://github.com/antoniwan/links-forest/blob/main/SELF-HOSTING.md) · [repo](https://github.com/antoniwan/links-forest)
+  - [links-forest demo](https://links-forest-phi.vercel.app): try Rowan Hollow's page, then fork. [Self-hosting guide](https://github.com/antoniwan/links-forest/blob/main/SELF-HOSTING.md) · [repo](https://github.com/antoniwan/links-forest)
 
 ## Projects
 
 One list. Public stuff has links; private stuff is just vibes until it's ready.
 
-- [antoniwan.online](https://antoniwan.online) · [antoniwan.online-web](https://github.com/antoniwan/antoniwan.online-web) — my live link hub (downstream of the template)
-- [notes.antoniwan.online](https://notes.antoniwan.online) · [notes](https://github.com/antoniwan/notes) — Astro blog
-- [builds.software](https://builds.software) · [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software) — portfolio
-- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) · [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon) — bilingual bedtime story (English / Spanish)
-- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com) · [the-bent-one](https://github.com/antoniwan/the-bent-one) — same deal; read them to your kids if you'd like
-- [prompt library](https://my-prompt-library-lilac.vercel.app) · [my-prompt-library](https://github.com/antoniwan/my-prompt-library) — Git-native prompts
+- [antoniwan.online](https://antoniwan.online) · [antoniwan.online-web](https://github.com/antoniwan/antoniwan.online-web): my live link hub (downstream of the template)
+- [notes.antoniwan.online](https://notes.antoniwan.online) · [notes](https://github.com/antoniwan/notes): Astro blog
+- [builds.software](https://builds.software) · [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software): portfolio
+- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) · [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon): bilingual bedtime story (English / Spanish)
+- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com) · [the-bent-one](https://github.com/antoniwan/the-bent-one): same deal; read them to your kids if you'd like
+- [prompt library](https://my-prompt-library-lilac.vercel.app) · [my-prompt-library](https://github.com/antoniwan/my-prompt-library): Git-native prompts
 - [react hooks lab](https://my-react-hooks.vercel.app) · [my-react-hooks](https://github.com/antoniwan/my-react-hooks)
 - [skin care app](https://skincare-for-you.vercel.app) · [skin-care-for-me-webapp](https://github.com/antoniwan/skin-care-for-me-webapp)
 - [work clock](https://work-clock-pi.vercel.app) · [work-clock](https://github.com/antoniwan/work-clock)
-- [links-forest demo](https://links-forest-phi.vercel.app) · [links-forest](https://github.com/antoniwan/links-forest) — forkable Astro link page (Jane Smith on `main`, not me)
-- [SoundCraft](https://github.com/antoniwan/SoundCraft) — self-hosted audio for the studio (no public demo)
-- **Nido** — async parent–child connection app. Private for now.
-- **Growly** — calm parenting journal. Private for now.
-- **SHSH client work** — consulting builds. Private for now.
+- [links-forest demo](https://links-forest-phi.vercel.app) · [links-forest](https://github.com/antoniwan/links-forest): forkable Astro link page (Rowan Hollow on `main`, not me)
+- [SoundCraft](https://github.com/antoniwan/SoundCraft): self-hosted audio for the studio (no public demo)
+- **Nido:** async parent-child connection app. Private for now.
+- **Growly:** calm parenting journal. Private for now.
+- **SHSH client work:** consulting builds. Private for now.
 
 ## Writing
 
@@ -81,7 +81,7 @@ One list. Public stuff has links; private stuff is just vibes until it's ready.
 - [On the application of empathy and compassion](https://notes.antoniwan.online/p/on-the-application-of-empathy-and-compassion)
 - [My Favorite Symbols of Power](https://notes.antoniwan.online/p/symbols-of-power)
 
-Everything else → [notes.antoniwan.online](https://notes.antoniwan.online)
+Everything else: [notes.antoniwan.online](https://notes.antoniwan.online)
 
 ## Contact
 
