@@ -5,48 +5,50 @@ Builder. Father. Boricua.
 Technical Program Manager at Stanley Black & Decker.
 I make software, music, and things that actually matter (to me lol).
 
-- Hub: [antoniwan.online](https://antoniwan.online)
-- Blog: [notes.antoniwan.online](https://notes.antoniwan.online)
-- Portfolio: [builds.software](https://builds.software)
-
 ## Live now
 
-Sites that actually load (Aug 2026):
+Stuff on the internet that actually loads:
 
-| Site | What |
-| --- | --- |
-| [antoniwan.online](https://antoniwan.online) | Link hub (my settings — not the template demo) |
-| [notes.antoniwan.online](https://notes.antoniwan.online) | Blog & essays |
-| [builds.software](https://builds.software) | Dev portfolio |
-| [stronghandssoftheart.com](https://stronghandssoftheart.com) | Strong Hands Soft Heart LLC |
-| [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app) | Consulting landing page |
-| [mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) | Picture book — *Mia, the Sun, and the Moon* |
-| [the-bent-one-book.stronghandssoftheart.com](https://the-bent-one-book.stronghandssoftheart.com) | Picture book — *The Bent One* |
-| [my-prompt-library-lilac.vercel.app](https://my-prompt-library-lilac.vercel.app) | Prompt library (live) |
-| [my-react-hooks.vercel.app](https://my-react-hooks.vercel.app) | React hooks playground |
-| [skincare-for-you.vercel.app](https://skincare-for-you.vercel.app) | Skin care routine app |
-| [work-clock-pi.vercel.app](https://work-clock-pi.vercel.app) | Work-day countdown |
-| [links-forest-phi.vercel.app](https://links-forest-phi.vercel.app) | LinksForest template demo — [fork the repo](https://github.com/antoniwan/links-forest), not my hub |
+- **Me**
+  - [antoniwan.online](https://antoniwan.online) — link hub
+  - [notes.antoniwan.online](https://notes.antoniwan.online) — blog & essays
+  - [builds.software](https://builds.software) — dev portfolio
 
-Source code for most of these is in **Stuff I put on GitHub** below.
+- **Strong Hands Soft Heart**
+  - [stronghandssoftheart.com](https://stronghandssoftheart.com) — the LLC
+  - [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app) — consulting page
 
-## Stuff I put on GitHub
+- **Picture books** (for Mia)
+  - [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)
+  - [The Bent One](https://the-bent-one-book.stronghandssoftheart.com)
 
-- [links-forest](https://github.com/antoniwan/links-forest): minimalist themed link page — **Astro** template you can fork (demo identity on `main`; my live site is a separate downstream repo)
-- [notes](https://github.com/antoniwan/notes): Astro blog engine behind notes.antoniwan.online
-- [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon): bilingual web picture book for my daughter — *Mia, the Sun, and the Moon*
-- [the-bent-one](https://github.com/antoniwan/the-bent-one): bilingual web picture book — *The Bent One*
-- [my-prompt-library](https://github.com/antoniwan/my-prompt-library): Git-native structured prompts
-- [my-react-hooks](https://github.com/antoniwan/my-react-hooks): custom React hooks lab
-- [SoundCraft](https://github.com/antoniwan/SoundCraft): self-hosted audio archive for the studio
+- **Small tools**
+  - [prompt library](https://my-prompt-library-lilac.vercel.app)
+  - [react hooks playground](https://my-react-hooks.vercel.app)
+  - [skin care app](https://skincare-for-you.vercel.app)
+  - [work-day clock](https://work-clock-pi.vercel.app)
 
-## Active in private (no public repo link)
+- **Fork me**
+  - [links-forest demo](https://links-forest-phi.vercel.app) — not my hub; grab the [template](https://github.com/antoniwan/links-forest)
 
-Stuff I'm building but not ready to open-source yet:
+## Projects
 
-- **Nido** — async parent–child connection app (Expo + Cloudflare)
-- **Growly** — calm parenting observation journal
-- **Strong Hands, Soft Heart** — consulting site & client work
+One list. Public stuff has links; private stuff is just vibes until it's ready.
+
+- [antoniwan.online](https://antoniwan.online) · [antoniwan.online-web](https://github.com/antoniwan/antoniwan.online-web) — my live link hub (downstream of the template)
+- [notes.antoniwan.online](https://notes.antoniwan.online) · [notes](https://github.com/antoniwan/notes) — Astro blog
+- [builds.software](https://builds.software) · [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software) — portfolio
+- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) · [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon) — bilingual picture book
+- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com) · [the-bent-one](https://github.com/antoniwan/the-bent-one) — bilingual picture book
+- [prompt library](https://my-prompt-library-lilac.vercel.app) · [my-prompt-library](https://github.com/antoniwan/my-prompt-library) — Git-native prompts
+- [react hooks lab](https://my-react-hooks.vercel.app) · [my-react-hooks](https://github.com/antoniwan/my-react-hooks)
+- [skin care app](https://skincare-for-you.vercel.app) · [skin-care-for-me-webapp](https://github.com/antoniwan/skin-care-for-me-webapp)
+- [work clock](https://work-clock-pi.vercel.app) · [work-clock](https://github.com/antoniwan/work-clock)
+- [links-forest demo](https://links-forest-phi.vercel.app) · [links-forest](https://github.com/antoniwan/links-forest) — forkable Astro link page (Jane Smith on `main`, not me)
+- [SoundCraft](https://github.com/antoniwan/SoundCraft) — self-hosted audio for the studio (no public demo)
+- **Nido** — async parent–child connection app. Private for now.
+- **Growly** — calm parenting journal. Private for now.
+- **SHSH client work** — consulting builds. Private for now.
 
 ## Writing
 
@@ -79,7 +81,7 @@ Stuff I'm building but not ready to open-source yet:
 - [On the application of empathy and compassion](https://notes.antoniwan.online/p/on-the-application-of-empathy-and-compassion)
 - [My Favorite Symbols of Power](https://notes.antoniwan.online/p/symbols-of-power)
 
-The rest of the feed is at [notes.antoniwan.online](https://notes.antoniwan.online).
+Everything else → [notes.antoniwan.online](https://notes.antoniwan.online)
 
 ## Contact
 
