@@ -29,7 +29,7 @@ Stuff on the internet that actually loads:
   - [work-day clock](https://work-clock-pi.vercel.app)
 
 - **Fork me**
-  - [links-forest demo](https://links-forest-phi.vercel.app) — not my hub; grab the [template](https://github.com/antoniwan/links-forest)
+  - [links-forest demo](https://links-forest-phi.vercel.app) — try Rowan Hollow’s page, then fork; [self-hosting guide](https://github.com/antoniwan/links-forest/blob/main/SELF-HOSTING.md) · [repo](https://github.com/antoniwan/links-forest)
 
 ## Projects
 
