@@ -17,7 +17,7 @@ I make software, music, and things that actually matter (to me lol).
 | [notes.antoniwan.online](https://notes.antoniwan.online) | [notes](https://github.com/antoniwan/notes) |
 | [builds.software](https://builds.software) | [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software) |
 
-## Open source I'm maintaining
+## Stuff I put on GitHub
 
 - [links-forest](https://github.com/antoniwan/links-forest): minimalist themed link page — **Astro** template you can fork (demo identity on `main`; my live site is a separate downstream repo)
 - [notes](https://github.com/antoniwan/notes): Astro blog engine behind notes.antoniwan.online
