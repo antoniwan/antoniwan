@@ -2,20 +2,25 @@
 
 Builder. Father. Boricua.
 
-Technical Program Manager at Stanley Black & Decker. I make software, music, and things that actually matter (to me lol).
+Technical Program Manager at Stanley Black & Decker.  
+I make software, music, and things that actually matter (to me lol).
+
+## 🌐 Around the web
 
 - [antoniwan.online](https://antoniwan.online): link hub
 - [notes.antoniwan.online](https://notes.antoniwan.online): blog & essays
 - [stronghandssoftheart.com](https://stronghandssoftheart.com): the LLC
 - [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app): consulting page
 
-- **Picture books:** stories I wrote for my children; if you have little ones, you're welcome to read these aloud to them too
-  - [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)
-  - [The Bent One](https://the-bent-one-book.stronghandssoftheart.com)
-- **Fork me**
-  - [links-forest demo](https://links-forest-phi.vercel.app): try Rowan Hollow's page, then fork. [Self-hosting guide](https://github.com/antoniwan/links-forest/blob/main/SELF-HOSTING.md) · [repo](https://github.com/antoniwan/links-forest)
+### 📖 Picture books
+Stories I wrote for my children. If you have little ones, you're welcome to read these aloud to them too.
+- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)
+- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com)
 
-## More Writing
+### 🌲 LinksForest
+A themed link page you can make your own. Peek at the [demo](https://links-forest-phi.vercel.app), then fork it, tweak one file, and ship it. [Self-hosting guide](https://github.com/antoniwan/links-forest/blob/main/SELF-HOSTING.md) · [repo](https://github.com/antoniwan/links-forest)
+
+## ✍️ Writing
 
 - [El Trickle Down Sí Llegó](https://notes.antoniwan.online/p/el-trickle-down-si-llego)
 - [Presenting Vastitas Omniparens](https://notes.antoniwan.online/p/presenting-vastitas-omniparens)
@@ -48,8 +53,8 @@ Technical Program Manager at Stanley Black & Decker. I make software, music, and
 
 Everything else: [notes.antoniwan.online](https://notes.antoniwan.online)
 
-## Contact
+## 📬 Contact
 
-antonio@builds.software  
-https://www.linkedin.com/in/antoniwan  
-https://bsky.app/profile/antoniwan.online
+- ✉️ antonio@builds.software
+- 💼 [linkedin.com/in/antoniwan](https://www.linkedin.com/in/antoniwan)
+- 🦋 [bsky.app/profile/antoniwan.online](https://bsky.app/profile/antoniwan.online)
