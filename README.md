@@ -9,13 +9,26 @@ I make software, music, and things that actually matter (to me lol).
 - Blog: [notes.antoniwan.online](https://notes.antoniwan.online)
 - Portfolio: [builds.software](https://builds.software)
 
-## Live now (public)
+## Live now
 
-| Site | Repo |
+Sites that actually load (Aug 2026):
+
+| Site | What |
 | --- | --- |
-| [antoniwan.online](https://antoniwan.online) | powered by [links-forest](https://github.com/antoniwan/links-forest) — fork the template, not my settings |
-| [notes.antoniwan.online](https://notes.antoniwan.online) | [notes](https://github.com/antoniwan/notes) |
-| [builds.software](https://builds.software) | [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software) |
+| [antoniwan.online](https://antoniwan.online) | Link hub (my settings — not the template demo) |
+| [notes.antoniwan.online](https://notes.antoniwan.online) | Blog & essays |
+| [builds.software](https://builds.software) | Dev portfolio |
+| [stronghandssoftheart.com](https://stronghandssoftheart.com) | Strong Hands Soft Heart LLC |
+| [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app) | Consulting landing page |
+| [mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com) | Picture book — *Mia, the Sun, and the Moon* |
+| [the-bent-one-book.stronghandssoftheart.com](https://the-bent-one-book.stronghandssoftheart.com) | Picture book — *The Bent One* |
+| [my-prompt-library-lilac.vercel.app](https://my-prompt-library-lilac.vercel.app) | Prompt library (live) |
+| [my-react-hooks.vercel.app](https://my-react-hooks.vercel.app) | React hooks playground |
+| [skincare-for-you.vercel.app](https://skincare-for-you.vercel.app) | Skin care routine app |
+| [work-clock-pi.vercel.app](https://work-clock-pi.vercel.app) | Work-day countdown |
+| [links-forest-phi.vercel.app](https://links-forest-phi.vercel.app) | LinksForest template demo — [fork the repo](https://github.com/antoniwan/links-forest), not my hub |
+
+Source code for most of these is in **Stuff I put on GitHub** below.
 
 ## Stuff I put on GitHub
 
