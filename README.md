@@ -2,13 +2,12 @@
 
 Builder. Father. Boricua.
 
-Technical Program Manager at Stanley Black & Decker.
-I make software, music, and things that actually matter (to me lol).
+Technical Program Manager at Stanley Black & Decker. I make software, music, and things that actually matter (to me lol).
 
-  - [antoniwan.online](https://antoniwan.online): link hub
-  - [notes.antoniwan.online](https://notes.antoniwan.online): blog & essays
-  - [stronghandssoftheart.com](https://stronghandssoftheart.com): the LLC
-  - [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app): consulting page
+- [antoniwan.online](https://antoniwan.online): link hub
+- [notes.antoniwan.online](https://notes.antoniwan.online): blog & essays
+- [stronghandssoftheart.com](https://stronghandssoftheart.com): the LLC
+- [shsh-consulting.vercel.app](https://shsh-consulting.vercel.app): consulting page
 
 - **Picture books:** stories I wrote for my children; if you have little ones, you're welcome to read these aloud to them too
   - [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)
