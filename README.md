@@ -5,18 +5,35 @@ Builder. Father. Boricua.
 Technical Program Manager at Stanley Black & Decker.
 I make software, music, and things that actually matter (to me lol).
 
-- Hub: https://antoniwan.online
-- Blog: https://notes.antoniwan.online
-- Portfolio: https://builds.software
+- Hub: [antoniwan.online](https://antoniwan.online)
+- Blog: [notes.antoniwan.online](https://notes.antoniwan.online)
+- Portfolio: [builds.software](https://builds.software)
 
-## What I'm building
+## Live now (public)
 
-- [notes](https://github.com/antoniwan/notes): personal blog engine, running notes.antoniwan.online
-- [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software): portfolio
-- [my-prompt-library](https://github.com/antoniwan/my-prompt-library): prompts I actually use
-- [links-forest](https://github.com/antoniwan/links-forest): the links hub at antoniwan.online
-- [SoundCraft](https://github.com/antoniwan/SoundCraft): self-hosted audio for the studio
-- [my-react-hooks](https://github.com/antoniwan/my-react-hooks): custom React hooks
+| Site | Repo |
+| --- | --- |
+| [antoniwan.online](https://antoniwan.online) | powered by [links-forest](https://github.com/antoniwan/links-forest) — fork the template, not my settings |
+| [notes.antoniwan.online](https://notes.antoniwan.online) | [notes](https://github.com/antoniwan/notes) |
+| [builds.software](https://builds.software) | [antonio-builds-software](https://github.com/antoniwan/antonio-builds-software) |
+
+## Open source I'm maintaining
+
+- [links-forest](https://github.com/antoniwan/links-forest): minimalist themed link page — **Astro** template you can fork (demo identity on `main`; my live site is a separate downstream repo)
+- [notes](https://github.com/antoniwan/notes): Astro blog engine behind notes.antoniwan.online
+- [book-sun-and-moon](https://github.com/antoniwan/book-sun-and-moon): bilingual web picture book for my daughter — *Mia, the Sun, and the Moon*
+- [the-bent-one](https://github.com/antoniwan/the-bent-one): bilingual web picture book — *The Bent One*
+- [my-prompt-library](https://github.com/antoniwan/my-prompt-library): Git-native structured prompts
+- [my-react-hooks](https://github.com/antoniwan/my-react-hooks): custom React hooks lab
+- [SoundCraft](https://github.com/antoniwan/SoundCraft): self-hosted audio archive for the studio
+
+## Active in private (no public repo link)
+
+Stuff I'm building but not ready to open-source yet:
+
+- **Nido** — async parent–child connection app (Expo + Cloudflare)
+- **Growly** — calm parenting observation journal
+- **Strong Hands, Soft Heart** — consulting site & client work
 
 ## Writing
 
@@ -53,6 +70,6 @@ The rest of the feed is at [notes.antoniwan.online](https://notes.antoniwan.onli
 
 ## Contact
 
-antonio@builds.software
-https://www.linkedin.com/in/antoniwan
+antonio@builds.software  
+https://www.linkedin.com/in/antoniwan  
 https://bsky.app/profile/antoniwan.online
