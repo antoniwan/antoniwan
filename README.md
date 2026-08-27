@@ -22,6 +22,7 @@ A themed link page you can make your own. Peek at the [demo](https://links-fores
 
 ## ✍️ Writing
 
+- [What Phrases Did Your Dad Install On You?](https://notes.antoniwan.online/p/what-phrases-did-your-dad-install-on-you)
 - [El Trickle Down Sí Llegó](https://notes.antoniwan.online/p/el-trickle-down-si-llego)
 - [Presenting Vastitas Omniparens](https://notes.antoniwan.online/p/presenting-vastitas-omniparens)
 - [If God Had Gentle Parented Us](https://notes.antoniwan.online/p/if-god-had-gentle-parented-us)
