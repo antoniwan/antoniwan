@@ -1,9 +1,8 @@
 # Antonio Rodríguez Martínez
 
-Builder. Father. Boricua.
+Technical Program Manager at Stanley Black & Decker. In practice I do product architecture for SBD Digital — specs, user journeys, acceptance criteria, and holding the shape of a product across services while a lot of teams build pieces of it.
 
-Technical Program Manager at Stanley Black & Decker.  
-I make software, music, and things that actually matter (to me lol).
+I write essays at [notes.antoniwan.online](https://notes.antoniwan.online), build small web things, and make music. Boricua in Florida, and a father — which is where most of the writing comes from.
 
 ## 🌐 Around the web
 
