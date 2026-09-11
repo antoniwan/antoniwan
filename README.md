@@ -22,7 +22,9 @@ A themed link page you can make your own. Peek at the [demo](https://links-fores
 
 ## ✍️ Writing
 
-- [What Phrases Did Your Dad Install On You?](https://notes.antoniwan.online/p/what-phrases-did-your-dad-install-on-you)
+- [Forging the 'Stronghand' Terminal — September 2026 Update](https://notes.antoniwan.online/p/forging-stronghand-terminal-september-2026)
+- [Captured, Not Pathetic](https://notes.antoniwan.online/p/captured-not-pathetic)
+- [I Didn't Start Cooking for Love](https://notes.antoniwan.online/p/i-didnt-start-cooking-for-love)
 - [El Trickle Down Sí Llegó](https://notes.antoniwan.online/p/el-trickle-down-si-llego)
 - [Presenting Vastitas Omniparens](https://notes.antoniwan.online/p/presenting-vastitas-omniparens)
 - [If God Had Gentle Parented Us](https://notes.antoniwan.online/p/if-god-had-gentle-parented-us)
