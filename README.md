@@ -16,7 +16,7 @@ I write essays at [notes.antoniwan.online](https://notes.antoniwan.online), buil
 - **[Notes](https://notes.antoniwan.online)**: my writing site. Astro, essays in English and Spanish, household recipes, and a markdown copy of every post. [repo](https://github.com/antoniwan/notes)
 - **[LinksForest](https://github.com/antoniwan/links-forest)**: a themed link page you can make your own. Fork it, edit one file, ship it. [demo](https://links-forest-phi.vercel.app) · [self-hosting guide](https://github.com/antoniwan/links-forest/blob/main/SELF-HOSTING.md)
 - **[Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)** and **[The Bent One](https://the-bent-one-book.stronghandssoftheart.com)**: picture books I wrote for my children, in English and Spanish. If you have little ones, you're welcome to read them aloud too.
-- **[Strong Hands, Soft Heart](https://stronghandssoftheart.com)**: my LLC, and its [consulting practice](https://consulting.stronghandssoftheart.com).
+- **[Strong Hands, Soft Heart](https://www.stronghandssoftheart.com)**: my company. Cold-process soap (planned for late 2026), the picture books, Notes, and [AI and engineering consulting](https://www.stronghandssoftheart.com/consulting).
 
 ## 🤖 For agents
 
@@ -26,8 +26,7 @@ Each of my sites publishes an [`llms.txt`](https://llmstxt.org): a short markdow
 | --- | --- |
 | Everything, as links | [antoniwan.online/llms.txt](https://antoniwan.online/llms.txt) |
 | Essays (append `.md` to any post URL) | [notes.antoniwan.online/llms.txt](https://notes.antoniwan.online/llms.txt) |
-| Consulting | [consulting.stronghandssoftheart.com/llms.txt](https://consulting.stronghandssoftheart.com/llms.txt) |
-| The LLC | [stronghandssoftheart.com/llms.txt](https://www.stronghandssoftheart.com/llms.txt) |
+| My company: soap, books, consulting | [stronghandssoftheart.com/llms.txt](https://www.stronghandssoftheart.com/llms.txt) |
 | Portfolio | [builds.software/llms.txt](https://builds.software/llms.txt) |
 
 ## ✍️ Writing
