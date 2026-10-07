@@ -4,59 +4,43 @@ Technical Program Manager at Stanley Black & Decker. In practice I do product ar
 
 I write essays at [notes.antoniwan.online](https://notes.antoniwan.online), build small web things, and make music. Boricua in Florida, and a father — which is where most of the writing comes from.
 
-## 🌐 Around the web
+[antoniwan.online](https://antoniwan.online) · [LinkedIn](https://www.linkedin.com/in/antoniwan) · [Bluesky](https://bsky.app/profile/antoniwan.online) · antonio@builds.software
 
-- [antoniwan.online](https://antoniwan.online): link hub
-- [notes.antoniwan.online](https://notes.antoniwan.online): blog & essays
-- [stronghandssoftheart.com](https://stronghandssoftheart.com): the LLC
-- [consulting.stronghandssoftheart.com](https://consulting.stronghandssoftheart.com): consulting page
+## 🔭 Now
 
-### 📖 Picture books
-Stories I wrote for my children, in English and Spanish. If you have little ones, you're welcome to read these aloud to them too.
-- [Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)
-- [The Bent One](https://the-bent-one-book.stronghandssoftheart.com)
+- Building **Panda** and **Wolf**, two Obsidian vaults kept by agent skills I write from scratch. One rule sits under both: honesty. [The essay](https://notes.antoniwan.online/p/panda-and-wolf).
+- Making every site I run readable by agents: an `llms.txt` on each one, and every essay also served as markdown.
 
-### 🌲 LinksForest
-A themed link page you can make your own. Peek at the [demo](https://links-forest-phi.vercel.app), then fork it, tweak one file, and ship it. [Self-hosting guide](https://github.com/antoniwan/links-forest/blob/main/SELF-HOSTING.md) · [repo](https://github.com/antoniwan/links-forest)
+## 🛠️ Selected work
+
+- **[Notes](https://notes.antoniwan.online)**: my writing site. Astro, essays in English and Spanish, household recipes, and a markdown copy of every post. [repo](https://github.com/antoniwan/notes)
+- **[LinksForest](https://github.com/antoniwan/links-forest)**: a themed link page you can make your own. Fork it, edit one file, ship it. [demo](https://links-forest-phi.vercel.app) · [self-hosting guide](https://github.com/antoniwan/links-forest/blob/main/SELF-HOSTING.md)
+- **[Mia, the Sun, and the Moon](https://mia-the-sun-and-the-moon-web-book.stronghandssoftheart.com)** and **[The Bent One](https://the-bent-one-book.stronghandssoftheart.com)**: picture books I wrote for my children, in English and Spanish. If you have little ones, you're welcome to read them aloud too.
+- **[Strong Hands, Soft Heart](https://stronghandssoftheart.com)**: my LLC, and its [consulting practice](https://consulting.stronghandssoftheart.com).
+
+## 🤖 For agents
+
+Each of my sites publishes an [`llms.txt`](https://llmstxt.org): a short markdown guide with links an agent can follow. If you're an AI agent, or a human with `curl`, start here:
+
+| Site | Guide |
+| --- | --- |
+| Everything, as links | [antoniwan.online/llms.txt](https://antoniwan.online/llms.txt) |
+| Essays (append `.md` to any post URL) | [notes.antoniwan.online/llms.txt](https://notes.antoniwan.online/llms.txt) |
+| Consulting | [consulting.stronghandssoftheart.com/llms.txt](https://consulting.stronghandssoftheart.com/llms.txt) |
+| The LLC | [stronghandssoftheart.com/llms.txt](https://www.stronghandssoftheart.com/llms.txt) |
+| Portfolio | [builds.software/llms.txt](https://builds.software/llms.txt) |
 
 ## ✍️ Writing
 
+- [Panda and Wolf: Two Vaults to Map a Person](https://notes.antoniwan.online/p/panda-and-wolf)
+- [Redefining God](https://notes.antoniwan.online/p/redefining-god)
+- [Briefly, on the Tao](https://notes.antoniwan.online/p/briefly-on-the-tao)
 - [Forging the 'Stronghand' Terminal — September 2026 Update](https://notes.antoniwan.online/p/forging-stronghand-terminal-september-2026)
 - [Captured, Not Pathetic](https://notes.antoniwan.online/p/captured-not-pathetic)
 - [I Didn't Start Cooking for Love](https://notes.antoniwan.online/p/i-didnt-start-cooking-for-love)
+- [What Phrases Did Your Dad Install On You?](https://notes.antoniwan.online/p/what-phrases-did-your-dad-install-on-you)
 - [El Trickle Down Sí Llegó](https://notes.antoniwan.online/p/el-trickle-down-si-llego)
-- [Presenting Vastitas Omniparens](https://notes.antoniwan.online/p/presenting-vastitas-omniparens)
-- [If God Had Gentle Parented Us](https://notes.antoniwan.online/p/if-god-had-gentle-parented-us)
-- [It Isn't Too Much Pressure](https://notes.antoniwan.online/p/on-parental-pressure)
-- [Happiness Is Moments](https://notes.antoniwan.online/p/happiness-is-moments)
-- ["Crimson Desert" Game Review](https://notes.antoniwan.online/p/my-crimson-desert-review-after-200-hours)
-- [The Joy of Building My Own Digital Sandbox — April 2026 Update](https://notes.antoniwan.online/p/the-joy-of-building-my-own-digital-sandbox-april-2026)
-- [On Leadership and Leadership-Adjacent Things, April 2026](https://notes.antoniwan.online/p/on-leadership-and-leadership-adjacent-things-april-2026)
-- [Rolling Back Main (And Why You Shouldn't Have to)](https://notes.antoniwan.online/p/rolling-back-main-and-why-you-shouldnt-have-to)
-- [The Feeling Is Not the Problem](https://notes.antoniwan.online/p/the-feeling-is-not-the-problem)
-- [Notes on Puerto Rico: Sin Pie Forzao'](https://notes.antoniwan.online/p/notes-on-puerto-rico-sin-pie-forzao)
-- [Arithmetic](https://notes.antoniwan.online/p/arithmetic-presencia)
-- [The First Wall](https://notes.antoniwan.online/p/the-first-wall)
-- [The Prometheus Problem](https://notes.antoniwan.online/p/the-prometheus-problem)
-- [On Clear Signals](https://notes.antoniwan.online/p/on-clear-signals)
-- [Why I Turned Off Notifications Again](https://notes.antoniwan.online/p/why-i-turned-off-notifications-again)
-- [An Invitation to the End of Wealth Worship — and the Beginning of a Human Future](https://notes.antoniwan.online/p/an-invitation-to-the-end-of-wealth-worship-and-the-beginning-of-a-human-future)
-- [November 6, 2025 — Season of Becoming](https://notes.antoniwan.online/p/season-of-becoming)
-- [Empathy as a Shield](https://notes.antoniwan.online/p/empathy-as-a-shield)
-- [The Rhythm of Grief - Summer Days and Letting Go](https://notes.antoniwan.online/p/the-rhythm-of-grief-summer-days-and-letting-go)
-- [Love Is the Final Revolution](https://notes.antoniwan.online/p/love-is-the-final-revolution)
-- [Good Sheep](https://notes.antoniwan.online/p/good-sheep)
-- [An Hour of Hair Brushing: What My Daughter Taught Me About Time](https://notes.antoniwan.online/p/an-hour-of-hair-brushing-what-my-daughter-taught-me-about-time)
-- [The Paradox of Modernity: Progress Without Peace](https://notes.antoniwan.online/p/the-paradox-of-modernity-progress-without-peace)
-- [Mercy Through the Blade: The Silent Law of Leadership](https://notes.antoniwan.online/p/mercy-through-the-blade)
-- [Who, really, raised me?](https://notes.antoniwan.online/p/who-really-raised-me)
-- [On the application of empathy and compassion](https://notes.antoniwan.online/p/on-the-application-of-empathy-and-compassion)
-- [My Favorite Symbols of Power](https://notes.antoniwan.online/p/symbols-of-power)
 
 Everything else: [notes.antoniwan.online](https://notes.antoniwan.online)
 
-## 📬 Contact
-
-- ✉️ antonio@builds.software
-- 💼 [linkedin.com/in/antoniwan](https://www.linkedin.com/in/antoniwan)
-- 🦋 [bsky.app/profile/antoniwan.online](https://bsky.app/profile/antoniwan.online)
+> A simple honest statement can be embellished with more value, or art, or soul, or humor, but the honest statement is the core of this system. — [Panda and Wolf](https://notes.antoniwan.online/p/panda-and-wolf)
