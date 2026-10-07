@@ -25,8 +25,8 @@ Systems over shortcuts. Thoughtful development, clear code, code as communicatio
 - [Redefining God](https://notes.antoniwan.online/p/redefining-god), September 2026
 - [Briefly, on the Tao](https://notes.antoniwan.online/p/briefly-on-the-tao), September 2026
 - [Forging the 'Stronghand' Terminal — September 2026 Update](https://notes.antoniwan.online/p/forging-stronghand-terminal-september-2026), September 2026
+- [Captured, Not Pathetic](https://notes.antoniwan.online/p/captured-not-pathetic), September 2026
 - [I Didn't Start Cooking for Love](https://notes.antoniwan.online/p/i-didnt-start-cooking-for-love), September 2026
-- [What Phrases Did Your Dad Install On You?](https://notes.antoniwan.online/p/what-phrases-did-your-dad-install-on-you), August 2026
 
 Everything else, about 130 essays and recipes: [notes.antoniwan.online](https://notes.antoniwan.online).
 
