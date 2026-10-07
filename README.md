@@ -7,13 +7,13 @@
 
 I'm Antonio. Technical program manager at Stanley Black & Decker and a founding member of SBD Digital, the team behind its websites and apps: product architecture across services, the web platform the brands share, design systems, AI prototypes, and mentoring. Former CTO; I still write code. From Puerto Rico, in Florida, and a father, which is where most of the writing comes from.
 
-| What | Where it stands |
-| --- | --- |
-| [Notes](https://notes.antoniwan.online): essays in English and Spanish, and the recipes we cook at home | Free to read |
-| Panda and Wolf: two Obsidian vaults kept by agent skills I write from scratch, with one rule under both, honesty. [The essay](https://notes.antoniwan.online/p/panda-and-wolf) | In progress, private |
-| [antoniwan.online](https://antoniwan.online): who I am, how I work, what I build | Live |
-| [Strong Hands, Soft Heart](https://www.stronghandssoftheart.com): my company. [AI and engineering consulting](https://www.stronghandssoftheart.com/consulting) now; cold-process soap planned for late 2026; it publishes the picture books | Consulting available |
-| Music: metal albums with friends | In progress |
+### Around the web
+
+- [antoniwan.online](https://antoniwan.online): me, and every link
+- [notes.antoniwan.online](https://notes.antoniwan.online): my essays, in English and Spanish, plus the recipes we cook at home
+- [stronghandssoftheart.com](https://www.stronghandssoftheart.com): my company. [AI and engineering consulting](https://www.stronghandssoftheart.com/consulting) now, cold-process soap planned for late 2026. It publishes the picture books.
+
+Lately I'm building Panda and Wolf, two Obsidian vaults kept by agent skills I write from scratch, with one rule under both: honesty. [The essay](https://notes.antoniwan.online/p/panda-and-wolf). And metal albums with friends, still in progress.
 
 ### How I work
 
