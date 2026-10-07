@@ -10,7 +10,7 @@ Lately I'm building Panda and Wolf, two Obsidian vaults kept by agent skills I w
 
 - [antoniwan.online](https://antoniwan.online): me, and every link
 - [notes.antoniwan.online](https://notes.antoniwan.online): my essays, in English and Spanish, plus the recipes we cook at home
-- [stronghandssoftheart.com](https://www.stronghandssoftheart.com): my company, and the one door for work: [AI and engineering consulting](https://consulting.stronghandssoftheart.com) now, cold-process soap planned for late 2026. It publishes the picture books.
+- [stronghandssoftheart.com](https://www.stronghandssoftheart.com): my company, and the one door for work: [AI and engineering consulting](https://www.stronghandssoftheart.com/consulting) now, cold-process soap planned for late 2026. It publishes the picture books.
 
 Each of these sites also serves an [`llms.txt`](https://antoniwan.online/llms.txt), so an agent can read it without scraping.
 
