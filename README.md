@@ -17,7 +17,7 @@ Lately I'm building Panda and Wolf, two Obsidian vaults kept by agent skills I w
 
 ### How I work
 
-Systems over shortcuts. Thoughtful development, clear code, code as communication, maintainable design, and AI that reduces load. The longer version is on [antoniwan.online/about](https://antoniwan.online/about).
+Systems over shortcuts, deliberate over rushed, clear code, and humans over hype. The longer version is on [antoniwan.online/about](https://antoniwan.online/about#how-i-work).
 
 ### Writing
 
@@ -37,6 +37,7 @@ Everything else, about 130 essays and recipes: [notes.antoniwan.online](https://
 - [links-forest](https://github.com/antoniwan/links-forest): a themed link page you can make your own. Fork it, edit one file, ship it. [Demo](https://links-forest-phi.vercel.app).
 - [book-sun-and-moon](https://github.com/Strong-Hands-Soft-Heart/book-sun-and-moon) and [the-bent-one](https://github.com/Strong-Hands-Soft-Heart/the-bent-one): two picture books I wrote for my kids and my nephew, free to read in the browser in English or Spanish.
 - [stronghandssoftheart.com](https://github.com/Strong-Hands-Soft-Heart/stronghandssoftheart.com): the company site, built from its design system. Astro, WebGL, no framework.
+- [skin-care-for-me-webapp](https://github.com/antoniwan/skin-care-for-me-webapp): Skincare for You, a phone-first skincare routine app, Spanish first. Early, version 0.1. [Live](https://skincare.builds.software).
 
 ### Contact
 
