@@ -5,7 +5,7 @@
 
 **Builder. Father. Boricua 🇵🇷**
 
-I'm Antonio. Technical program manager at Stanley Black & Decker and a member of SBD Digital, the team behind its websites and apps: product architecture across services, the web platform the brands share, design systems, AI prototypes, and mentoring. Former CTO; I still write code. From Puerto Rico, in Florida, and a father, which is where most of the writing comes from.
+I'm Antonio. Technical program manager at Stanley Black & Decker, on SBD Digital: the web platform the brands share and the services and data behind it, AI innovation as product owner, product design as the main technical voice, and mentoring. Former CTO; I still write code. From Puerto Rico, in Florida, and a father, which is where most of the writing comes from.
 
 ### Around the web
 
