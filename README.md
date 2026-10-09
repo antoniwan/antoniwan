@@ -21,12 +21,12 @@ Systems over shortcuts, deliberate over rushed, clear code, and humans over hype
 
 ### Writing
 
+- [Front Row to the End of the World](https://notes.antoniwan.online/p/front-row-to-the-end-of-the-world), October 2026 · [en español](https://notes.antoniwan.online/p/primera-fila-para-el-fin-del-mundo)
 - [Panda and Wolf: Two Vaults to Map a Person](https://notes.antoniwan.online/p/panda-and-wolf), October 2026
 - [Redefining God](https://notes.antoniwan.online/p/redefining-god), September 2026
 - [Briefly, on the Tao](https://notes.antoniwan.online/p/briefly-on-the-tao), September 2026
 - [Forging the 'Stronghand' Terminal — September 2026 Update](https://notes.antoniwan.online/p/forging-stronghand-terminal-september-2026), September 2026
 - [Captured, Not Pathetic](https://notes.antoniwan.online/p/captured-not-pathetic), September 2026
-- [I Didn't Start Cooking for Love](https://notes.antoniwan.online/p/i-didnt-start-cooking-for-love), September 2026
 
 Everything else, about 130 essays and recipes: [notes.antoniwan.online](https://notes.antoniwan.online).
 
