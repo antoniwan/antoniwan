@@ -13,7 +13,7 @@ I'm Antonio. Technical program manager at Stanley Black & Decker, on SBD Digital
 - [notes.antoniwan.online](https://notes.antoniwan.online): my essays, in English and Spanish, plus the recipes we cook at home
 - [stronghandssoftheart.com](https://www.stronghandssoftheart.com): my company. [AI and engineering consulting](https://www.stronghandssoftheart.com/consulting) now, cold-process soap planned for late 2026. It publishes the picture books.
 
-Lately I'm building Panda and Wolf, two Obsidian vaults kept by agent skills I write from scratch, with one rule under both: honesty. [The essay](https://notes.antoniwan.online/p/panda-and-wolf). And metal albums with friends, still in progress.
+Lately I'm building Panda and Wolf, two Obsidian vaults kept by agent skills I write from scratch, with one rule under both: honesty. [The essay](https://notes.antoniwan.online/p/panda-and-wolf). [Uplift](https://uplifttowergame.com), a tower-building game that plays in your browser, in playtest; my company publishes it. And metal albums with friends, still in progress.
 
 ### How I work
 
