@@ -3,8 +3,6 @@
   <img alt="Antonio Rodríguez Martínez" src="assets/name-light.svg" width="640">
 </picture>
 
-**Builder. Father. Boricua 🇵🇷**
-
 Technical program manager at Stanley Black & Decker. Former CTO; I still write code. From Puerto Rico, in Florida.
 
 ### Now
