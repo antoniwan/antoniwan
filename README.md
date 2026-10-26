@@ -3,14 +3,14 @@
   <img alt="Antonio Rodríguez Martínez" src="assets/name-light.svg" width="640">
 </picture>
 
-Technical program manager by day. Former CTO; I still write code. From Puerto Rico.
+Technical program manager by day. The rest of the time I'm learning to make games, and I write at [Notes](https://notes.antoniwan.online). From Puerto Rico.
 
 ### Now
 
-- [Uplift](https://uplifttowergame.com): my take on SimTower, a tower-building game. Free and live in your browser
-- [Lifesworn](https://notes.antoniwan.online/p/i-dont-write-the-code): a 3D action RPG about a swordsman for hire, in Godot. Not playable yet; follow it on [Patreon](https://www.patreon.com/antoniwan)
-- [Panda and Wolf](https://notes.antoniwan.online/p/panda-and-wolf): two vaults kept by agent skills I write from scratch
-- [Strong Hands, Soft Heart](https://www.stronghandssoftheart.com): my company. Consulting now, soap planned for late 2026, and two picture books
-- [Cookbook](https://cookbook.antoniwan.online): our family recipes, in English and Spanish, with adjustable quantities and kitchen mode
+- [Lifesworn](https://lifesworn.com): a free 3D action RPG about a swordsman for hire, made in Godot. In development, at its own pace
+- [Uplift](https://uplifttowergame.com): my take on SimTower. Free in your browser, still early and in playtest
+- [Strong Hands, Soft Heart](https://www.stronghandssoftheart.com): my small company. Soap bars are next, planned for late 2026, alongside two picture books
+- Fixing up our home, one project at a time
+- [Cookbook](https://cookbook.antoniwan.online): our family recipes, in English and Spanish
 
-[antoniwan.online](https://antoniwan.online) · [Notes](https://notes.antoniwan.online) · [Collections: books and movies](https://antoniwan.online/collections) · [LinkedIn](https://www.linkedin.com/in/antoniwan) · [Bluesky](https://bsky.app/profile/antoniwan.online)
+[antoniwan.online](https://antoniwan.online) · [Projects](https://antoniwan.online/projects) · [Collections: games, books, and movies](https://antoniwan.online/collections) · [LinkedIn](https://www.linkedin.com/in/antoniwan) · [Bluesky](https://bsky.app/profile/antoniwan.online)
